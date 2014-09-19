@@ -1,0 +1,3 @@
+image_angle = direction-obj_alien-90
+direction = point_direction (x,y,obj_alien.x,obj_alien.y)
+
