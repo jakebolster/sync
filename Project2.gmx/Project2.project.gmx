@@ -5,6 +5,7 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
+<<<<<<< HEAD
   <sprites name="sprites">
 <<<<<<< HEAD
     <sprite>sprites\spr_player</sprite>
@@ -17,6 +18,9 @@
     <sprite>sprites\zenemy</sprite>
 >>>>>>> origin/master
   </sprites>
+=======
+  <sprites name="sprites"/>
+>>>>>>> parent of d6a01b3... new
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
@@ -28,6 +32,7 @@
     <object>objects\nigga</object>
     <object>objects\blak</object>
     <object>objects\DICK_HEADD</object>
+<<<<<<< HEAD
     <object>objects\obj_player</object>
     <object>objects\obj_player</object>
 =======
@@ -35,6 +40,8 @@
     <object>objects\zbullet_obj</object>
     <object>objects\zenemy_obj</object>
 >>>>>>> origin/master
+=======
+>>>>>>> parent of d6a01b3... new
   </objects>
   <rooms name="rooms">
     <room>rooms\zpit</room>

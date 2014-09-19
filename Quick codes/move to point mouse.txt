@@ -1,4 +1,0 @@
-image_index = direction-90
-direction = point_direction (x,y,mouse_x,mouse_y)
-speed= 1.50
-if keyboard_check(vk_up)speed=1.50
