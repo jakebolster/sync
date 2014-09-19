@@ -8,15 +8,17 @@
   <sprites name="sprites">
     <sprite>sprites\zturret</sprite>
     <sprite>sprites\zbullet</sprite>
+    <sprite>sprites\zenemy</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\zturret_obj</object>
     <object>objects\zbullet_obj</object>
+    <object>objects\zenemy_obj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\zpit</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
