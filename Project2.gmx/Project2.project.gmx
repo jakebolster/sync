@@ -12,7 +12,11 @@
     <object>objects\object0</object>
     <object>objects\object1</object>
     <object>objects\paks</object>
+<<<<<<< HEAD
     <object>objects\paki</object>
+=======
+    <object>objects\haidens_gay</object>
+>>>>>>> origin/master
   </objects>
   <help>
     <rtf>help.rtf</rtf>
