@@ -14,8 +14,12 @@
     <object>objects\paks</object>
     <object>objects\haidens_gay</object>
     <object>objects\nigga</object>
+<<<<<<< HEAD
     <object>objects\JAKE_IS_GAY</object>
     <object>objects\JAKE_IS_STILL_GAY</object>
+=======
+    <object>objects\gay</object>
+>>>>>>> origin/master
   </objects>
   <help>
     <rtf>help.rtf</rtf>
