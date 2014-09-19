@@ -9,6 +9,10 @@
     <sprite>sprites\zturret</sprite>
     <sprite>sprites\zbullet</sprite>
     <sprite>sprites\zenemy</sprite>
+    <sprite>sprites\spr_alien</sprite>
+    <sprite>sprites\spr_lazer</sprite>
+    <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_zombie_hench</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -16,6 +20,7 @@
     <object>objects\zturret_obj</object>
     <object>objects\zbullet_obj</object>
     <object>objects\zenemy_obj</object>
+    <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\zpit</room>
