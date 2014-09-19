@@ -66,6 +66,7 @@
     <instance objName="zenemy_obj" x="448" y="256" name="inst_A0D4B47F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="zenemy_obj" x="128" y="96" name="inst_86143DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="zenemy_obj" x="384" y="64" name="inst_7B46209E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_alien" x="192" y="224" name="inst_7301A9AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
