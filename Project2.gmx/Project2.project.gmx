@@ -5,7 +5,12 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_alien</sprite>
+    <sprite>sprites\spr_lazer</sprite>
+    <sprite>sprites\spr_zombie_hench</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
@@ -16,6 +21,8 @@
     <object>objects\nigga</object>
     <object>objects\blak</object>
     <object>objects\DICK_HEADD</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_player</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
