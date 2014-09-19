@@ -5,19 +5,19 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\zturret</sprite>
+    <sprite>sprites\zbullet</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object0</object>
-    <object>objects\object1</object>
-    <object>objects\paks</object>
-    <object>objects\haidens_gay</object>
-    <object>objects\nigga</object>
-    <object>objects\blak</object>
-    <object>objects\DICK_HEADD</object>
-    <object>objects\haidens_fat</object>
+    <object>objects\zturret_obj</object>
+    <object>objects\zbullet_obj</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
