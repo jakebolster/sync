@@ -9,6 +9,11 @@
     <sprite>sprites\zturret</sprite>
     <sprite>sprites\zbullet</sprite>
     <sprite>sprites\zenemy</sprite>
+<<<<<<< HEAD
+=======
+    <sprite>sprites\spr_alien</sprite>
+    <sprite>sprites\alien</sprite>
+>>>>>>> origin/master
     <sprite>sprites\spr_lazer</sprite>
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_zombie_hench</sprite>
